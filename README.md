@@ -103,7 +103,7 @@ end
 
 ### Large image (a skyrmion)
 
-![Branching](https://en.wikipedia.org/wiki/File:2skyrmions.PNG)
+![Branching](https://upload.wikimedia.org/wikipedia/commons/4/4b/2skyrmions.PNG)
 
 
 ### Definition lists can be used with HTML syntax.
