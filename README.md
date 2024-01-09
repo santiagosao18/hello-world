@@ -101,9 +101,9 @@ end
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+### Large image (a skyrmion)
 
-![Branching](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Branching](https://en.wikipedia.org/wiki/File:2skyrmions.PNG)
 
 
 ### Definition lists can be used with HTML syntax.
